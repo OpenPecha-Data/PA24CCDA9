@@ -1,0 +1,20 @@
+id: PA24CCDA9
+initial_creation_type: input
+source_metadata:
+  title: Siṃhamukhā Series
+  language: bo
+  description: 'Texts related to Siṃhamukhā/Siṃhamukhī or Siṃhavaktrā (seng ge gdong
+    ma), the Lion-Faced Ḍākinī:'
+  volume:
+    1b1acedbd30b40d19267901412bf5ded:
+      title: A Daily 'Hand-Clapping' Practice of Siṃhamukhā
+      parent: Averting Obstacles
+    8a5e3541d6d243c78b8681a799846acb:
+      title: The History of the Hearing Lineage of the Profound and Secret Practice
+        of Siṃhamukhā
+      parent: History
+    d337a06f2efa49d9a659ac28c6cb2243:
+      title: Siṃhamukhā Lineage Prayer
+      parent: Lineage Prayers
+created_at: '2022-03-01T05:49:02.016673'
+last_modified_at: '2022-03-01T05:49:02.016676'
